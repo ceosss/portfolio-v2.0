@@ -1,0 +1,16 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.heading{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.nav a{
+    text-decoration: none;
+    color: black;
+    
+}
